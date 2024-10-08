@@ -2,7 +2,11 @@
   "name": "Ivánku, kamaráde, můžes mluvit?",
   "shortName": "Ivanek",
   "description": "My ten fotbal neděláme pro sebe!",
-  "story": "\"Ivánku, kamaráde, můžeš mluvit? aneb Tak to mi ho teda vyndej\" je parodická divadelní hra od Petra Čtvrtníčka inspirovaná korupční aférou Ivana Horníka z let 2003-2004, kdy pro Viktorku Žižkov kupoval fotbalové výsledky. Hra vychází z odposlechů, kde Horník probírá úplatky s Milanem Brabcem, šéfem rozhodčích. Premiéra proběhla 23. dubna 2005 v Divadle Na zábradlí, kde si zahráli Petr Čtvrtníček, Jiří Lábus a Marek Daniel.",
+  "story": [
+    "\"Ivánku, kamaráde, můžeš mluvit? aneb Tak to mi ho teda vyndej\" je parodická divadelní hra od Petra Čtvrtníčka inspirovaná korupční aférou Ivana Horníka z let 2003-2004, kdy pro Viktorku Žižkov kupoval fotbalové výsledky.",
+    "Hra vychází z odposlechů, kde Milan Horník probírá úplatky s Milanem Brabcem, šéfem rozhodčích.",
+    "Premiéra proběhla 23. dubna 2005 v Divadle Na zábradlí. Ve hře si zahráli Petr Čtvrtníček, Jiří Lábus a Marek Daniel."
+  ],
   "author": {
     "name": "Egin",
     "url": "https://twitter.com/LazyLoadedLukas"
