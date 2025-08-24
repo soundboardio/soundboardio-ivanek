@@ -22,15 +22,10 @@
       "type": "image/jpeg"
     },
     {
-      "src": "/icons/icon.svg",
-      "sizes": "256x256",
-      "purpose": "maskable any",
-      "type": "image/svg"
-    },
-    {
       "src": "/icons/icon.png",
       "sizes": "256x256",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "tiles": [
