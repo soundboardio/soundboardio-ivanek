@@ -2,7 +2,7 @@
 
 > Plugin for [SoundBoardio.com](https://soundboardio.com)
 
-> App: https://soundboardio.com/app/egin28/ivanek
+> App: https://soundboardio.com/app/ivanek/
 
 > Soundboardio plugin with lots of carps, apples and advice on human resource management.
 

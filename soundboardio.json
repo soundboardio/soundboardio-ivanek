@@ -1,10 +1,11 @@
 {
-  "name": "Ivánku, kamaráde, můžes mluvit?",
-  "shortName": "Ivanek",
+  "name": "Ivánku, kamaráde, můžeš mluvit?",
+  "shortName": "Ivánek",
   "description": "My ten fotbal neděláme pro sebe!",
   "story": [
-    "\"Ivánku, kamaráde, můžeš mluvit? aneb Tak to mi ho teda vyndej\" je parodická divadelní hra od Petra Čtvrtníčka inspirovaná korupční aférou Ivana Horníka z let 2003-2004, kdy pro Viktorku Žižkov kupoval fotbalové výsledky.",
-    "Hra vychází z odposlechů, kde Milan Horník probírá úplatky s Milanem Brabcem, šéfem rozhodčích.",
+    "Hra Petra Čtvrtníčka podle odposlechů z fotbalové korupční aféry.",
+    "Název „Ivánku, kamaráde, můžeš mluvit? aneb Tak to mi ho teda vyndej“ je citát z aféry Ivana Horníka z let 2003–2004, kdy pro Viktorii Žižkov kupoval fotbalové výsledky.",
+    "Hra doslova přebírá policejní odposlechy telefonátů Ivana Horníka s Milanem Brabcem, vedoucím komise rozhodčích.",
     "Premiéra proběhla 23. dubna 2005 v Divadle Na zábradlí. Ve hře si zahráli Petr Čtvrtníček, Jiří Lábus a Marek Daniel."
   ],
   "author": {
@@ -86,7 +87,7 @@
       "filename": "vamSeTenFotbalLibil.mp3"
     },
     {
-      "name": "Jiný Důležitý",
+      "name": "Jiný důležitý",
       "filename": "aJinyDulezity.mp3"
     },
     {
@@ -130,7 +131,7 @@
       "filename": "jestliBudeChcat.mp3"
     },
     {
-      "name": "Jít štestičku naproti",
+      "name": "Jít štěstíčku naproti",
       "filename": "jitStestickuNaproti.mp3"
     },
     {
@@ -222,7 +223,7 @@
       "filename": "tyvoleAlePockej.mp3"
     },
     {
-      "name": "Unavenej jako koťe",
+      "name": "Unavenej jako kotě",
       "filename": "unavenejJakoKote.mp3"
     },
     {
